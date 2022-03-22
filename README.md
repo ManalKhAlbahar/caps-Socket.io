@@ -17,6 +17,6 @@ caps-Socket.io
 - [PR](https://github.com/ManalKhAlbahar/caps-Socket.io/pull/1).
 - [Github actions](https://github.com/ManalKhAlbahar/caps-Socket.io/actions).
 
-## Terminals Oitput
+## Terminals Output
 
 ![caps](soket.io.jpg)
